@@ -1,9 +1,10 @@
 let walker;
 
 function setup() {
-	createCanvas(windowWidth, windowHeight);
+    const canvas = createCanvas(windowWidth, windowHeight);
+    canvas.parent("sketch-holder")
 	walker = new Walker();
-	background("#F8F8FF");
+	background("#000000");
 }
 
 function windowResized() {
@@ -11,10 +12,10 @@ function windowResized() {
 }
 
 function draw() {
-	//var r = random(255);
+	// var r = random(255);
 	var g = random(255);
 	var b = random(255);
-	strokeWeight(2);
+	strokeWeight(4);
 	var stepsize = randomGaussian(10, 3)
 	walker.step(stepsize);
 	walker.render(0, g, b);
