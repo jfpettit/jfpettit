@@ -1,4 +1,4 @@
-<iframe src='https://my.spline.design/untitled-95d22afb26b3b15e9b72e8117befb83c/' frameborder='0' width='100%' height='100%'></iframe>
+![banner](assets/banner-5s.gif)
 
 # Welcome! 👋
 
