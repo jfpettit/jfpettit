@@ -1,4 +1,4 @@
-![banner](assets/banner-5s.gif)
+<iframe src='https://my.spline.design/untitled-95d22afb26b3b15e9b72e8117befb83c/' frameborder='0' width='100%' height='100%'></iframe>
 
 # Welcome! 👋
 
@@ -11,10 +11,10 @@
 - 🧬 Sequence optimization. Think DNA/RNA/amino acid optimization and mathematical expression optimization.
 - 💉 mRNA vaccines (and the COVID vaccine)!
 
-## I'm currently working on:
+## I'm currently exploring:
 
-- 🧠 Building my own tiny neural networks library!
-- 🤔 Exploring why PPO works better than similar algorithms.
+- 💨 `jit`-able RL environments
+- 🐈 Quantum ML
 
 ## I'm learning about:
 
