@@ -4,6 +4,8 @@
 
 👨‍💻 I'm Jacob Pettit, and I work on reinforcement learning research. My GitHub account houses my personal projects. 
 
+I also blog [on my website](https://jacobpettit.com) and on [Substack](https://themerge.substack.com).
+
 ## Right now I'm excited about:
 
 - 🤖 Multiagent RL. Both collaborative and competitive.
@@ -24,6 +26,7 @@
 ## How to contact me:
 - [📧](mailto:jfpettit@gmail.com)
 - [🐦](https://twitter.com/pettitjf)
+- [📝](https://jacobpettit.com)
 
 
 [![Jacobs's github stats](https://github-readme-stats.vercel.app/api?username=jfpettit&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
