@@ -24,9 +24,9 @@ I also blog [on my website](https://jacobpettit.com) and on [Substack](https://t
 - 💻 JavaScript, JAX in Python, and SWE best practices.
 
 ## How to contact me:
-- [📧](mailto:jfpettit@gmail.com)
-- [🐦](https://twitter.com/pettitjf)
-- [📝](https://jacobpettit.com)
+- [Email 📧](mailto:jfpettit@gmail.com)
+- [Twitter 🐦](https://twitter.com/pettitjf)
+- [Blog 📝](https://jacobpettit.com)
 
 
 [![Jacobs's github stats](https://github-readme-stats.vercel.app/api?username=jfpettit&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
