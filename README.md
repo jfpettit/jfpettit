@@ -15,8 +15,7 @@ I also blog [on my website](https://jacobpettit.com) and on [Substack](https://t
 
 ## I'm currently exploring:
 
-- 💨 `jit`-able RL environments
-- 🐈 Quantum ML
+- 🔬 ML for bio
 
 ## I'm learning about:
 
