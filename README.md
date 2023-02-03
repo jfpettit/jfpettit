@@ -4,7 +4,7 @@
 
 👨‍💻 I'm Jacob Pettit, and I work on reinforcement learning research. My GitHub account houses my personal projects. 
 
-I also blog [on my website](https://jacobpettit.com) and on [Substack](https://themerge.substack.com).
+I also blog at [Welcome to My Brain](https://jacobpettit.substack.com) and at [The Merge](https://themerge.substack.com).
 
 ## Right now I'm excited about:
 
